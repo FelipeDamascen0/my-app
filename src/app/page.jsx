@@ -30,7 +30,7 @@ export default function Home() {
           <input type="email" placeholder="email" className={styles.inputLogin} onChange={(e) => setEmail(e.target.value)}/>
           <input type="password" placeholder="digite sua senha!" className={styles.inputLogin} onChange={(e) => setPassword(e.target.value)} />
           <button type="submit" onClick={login}>add</button>
-          <Button titulo="testeaaa" />
+          <Button titulo="componente" />
         </form>
       </div>
     </div>
