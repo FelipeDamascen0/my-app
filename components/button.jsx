@@ -2,6 +2,8 @@
 export function Button(props){
 
     return(
-        <button>{props.titulo}</button>
+        <button type={props.type} className={props.class}>
+            {props.titulo}
+        </button>
     );
 } 

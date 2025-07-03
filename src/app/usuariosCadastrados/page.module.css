@@ -1,0 +1,13 @@
+.titulo{
+    padding: 15px;
+}
+
+.tableProducts th{
+    border: 1px solid #fff;
+    width: 100px;
+}
+
+.tableProducts td{
+    border: 1px solid #fff;
+    width: 100px;
+}
